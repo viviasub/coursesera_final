@@ -1,0 +1,12 @@
+name: shiny_app
+title: shiny_app
+username:
+account: viviasub
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 795037
+bundleId: 1945452
+url: https://viviasub.shinyapps.io/shiny_app/
+when: 1552828345.78554
+asMultiple: FALSE
+asStatic: FALSE
